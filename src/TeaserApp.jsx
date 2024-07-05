@@ -11,6 +11,8 @@ export const TeaserApp = () => {
         <AppTheme>
             <Typography variant='h3'>All cards were made with Material UI</Typography>
             <Typography variant='subtitle2'>This project was made with React + Vite. I create three card components and, it were added into TeaserApp page</Typography>
+            <Typography variant='h5'>By Jefferson Solano</Typography>
+
             <Typography variant="h4">Basic Card</Typography>
             <CardBasic></CardBasic>
             <hr></hr>
