@@ -1,0 +1,23 @@
+node_modules/
+dist/
+.expo/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+yarn-error.*
+ios/
+android/
+
+# macOS
+.DS_Store
+.idea
+
+.vscode/
+
+build**
+dist/**
